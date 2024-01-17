@@ -1,5 +1,5 @@
 <h1 align="center">Hellow world <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&center=true&random=false&width=435&lines=Backend+developer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&center=true&random=false&width=435&lines=Backend+developer)]
 
 <h3>USING</h3>
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white;)]<br>
