@@ -1,5 +1,12 @@
-### Hi there 👋
+<h1 align="center">Hellow world 👋 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Backend+delevoper)](https://git.io/typing-svg)
 
+<h3>USING</h3>
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+
+test
+[![trophy](https://github-profile-trophy.vercel.app/?username=chokoladis)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **chokoladis/chokoladis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
