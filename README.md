@@ -4,7 +4,8 @@
 <h3>MAIN TECHNOLOGIES</h3>
 
 <div>
-  <a>[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)]</a>
+  <img src="https://img.shields.io/badge/php?style=for-the-badge&logo=php&logoColor=white" alt="Twitter Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   <a>[![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)]</a>
 </div>
 
