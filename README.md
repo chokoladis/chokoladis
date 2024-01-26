@@ -16,7 +16,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=chokoladis)](https://github.com/ryo-ma/github-profile-trophy)
 
-### ⚙️ GitHub статистика:
+### ⚙️ GitHub statistics:
 
 <table>
   <tr>
