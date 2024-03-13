@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2FMA41p1XHjzXZD25jiq&psig=AOvVaw0v29ayGzV-SvZIIuPZ0gJQ&ust=1710447198794000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLC6wq-G8oQDFQAAAAAdAAAAABAE)" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h1 align="center">Shalom world</h1>
 </div>
 
@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/laravel-white.svg?style=for-the-badge&logo=Laravel&logoColor=orange" alt="Laravel"/>
   </a>
   <a>
-    <img src="https://img.shields.io/badge/vue-white.svg?style=for-the-badge&logo=Vue&logoColor=green" alt="Vue"/>
+    <img src="https://img.shields.io/badge/vue-green.svg" alt="Vue"/>
   </a>
 </div>
 
