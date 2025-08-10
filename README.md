@@ -10,16 +10,17 @@
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=PHP&logoColor=black" alt="PHP"/>
   </a>
   <a>
+    <img src="https://img.shields.io/badge/yii2-white.svg?style=for-the-badge&logo=Yii2&logoColor=purple" alt="Yii"/>
+  </a>
+  <a>
     <img src="https://img.shields.io/badge/laravel-white.svg?style=for-the-badge&logo=Laravel&logoColor=orange" alt="Laravel"/>
   </a>
   <a>
-    <img src="https://img.shields.io/badge/vue-green.svg?style=for-the-badge" alt="Vue"/>
+    <img src="https://img.shields.io/badge/go-blue.svg?style=for-the-badge" alt="Go"/>
   </a>
 </div>
 
 ---
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=chokoladis)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ⚙️ GitHub statistics:
 
