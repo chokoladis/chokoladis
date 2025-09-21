@@ -10,13 +10,13 @@
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=PHP&logoColor=black" alt="PHP"/>
   </a>
   <a>
-    <img src="https://img.shields.io/badge/yii2-white.svg?style=for-the-badge&logo=Yii2&logoColor=purple" alt="Yii"/>
+    <img src="https://img.shields.io/badge/yii2-%233B6FBA.svg?style=for-the-badge&logo=Yii&logoColor=white" alt="Yii2"/>
   </a>
   <a>
-    <img src="https://img.shields.io/badge/laravel-white.svg?style=for-the-badge&logo=Laravel&logoColor=orange" alt="Laravel"/>
+    <img src="https://img.shields.io/badge/laravel-%23f55247.svg?style=for-the-badge&logo=Laravel&logoColor=white" alt="Laravel"/>
   </a>
   <a>
-    <img src="https://img.shields.io/badge/go-blue.svg?style=for-the-badge" alt="Go"/>
+    <img src="https://img.shields.io/badge/-%233B6FBA.svg?style=for-the-badge&logo=Go&logoColor=white" alt="Go"/>
   </a>
 </div>
 
