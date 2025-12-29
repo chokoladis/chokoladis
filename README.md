@@ -20,6 +20,10 @@
   <a>
     <img src="https://img.shields.io/badge/-%233B6FBA.svg?style=for-the-badge&logo=Go&logoColor=white" alt="Go"/>
   </a>
+  
+  <a>
+    <img src="https://img.shields.io/badge/-%2335495E.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue"/>
+  </a>
 </div>
 
 ---
