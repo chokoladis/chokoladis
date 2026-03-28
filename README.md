@@ -5,6 +5,9 @@
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=PHP&logoColor=black" alt="PHP"/>
   </a>
   <a>
+    <img src="https://img.shields.io/badge/1C--Bitrix-%23EE3124.svg?style=for-the-badge&logo=bitrix&logoColor=white" alt="Bitrix"/>
+  </a>
+  <a>
     <img src="https://img.shields.io/badge/yii2-%233B6FBA.svg?style=for-the-badge&logo=Yii&logoColor=white" alt="Yii2"/>
   </a>
   <a>
