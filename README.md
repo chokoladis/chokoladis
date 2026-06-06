@@ -5,13 +5,22 @@
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=PHP&logoColor=black" alt="PHP"/>
   </a>
   <a>
-    <img src="https://img.shields.io/badge/1C--Bitrix-%23EE3124.svg?style=for-the-badge&logo=bitrix&logoColor=white" alt="Bitrix"/>
+    <img src="https://img.shields.io/badge/laravel-%23f55247.svg?style=for-the-badge&logo=Laravel&logoColor=white" alt="Laravel"/>
   </a>
   <a>
     <img src="https://img.shields.io/badge/yii2-%233B6FBA.svg?style=for-the-badge&logo=Yii&logoColor=white" alt="Yii2"/>
   </a>
   <a>
-    <img src="https://img.shields.io/badge/laravel-%23f55247.svg?style=for-the-badge&logo=Laravel&logoColor=white" alt="Laravel"/>
+    <img src="https://img.shields.io/badge/1C--Bitrix-%23EE3124.svg?style=for-the-badge&logo=bitrix&logoColor=white" alt="Bitrix"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> 
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
   </a>
 </div>
 
